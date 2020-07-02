@@ -1,3 +1,10 @@
+### I am following this [guide](https://github.com/P1xt/p1xt-guides) by [p1xt](https://github.com/P1xt). Currently at [tier 0 - Programming Prep](#tier-0---web-development---fullstack-bootcamp---app-academy-open)
+### You can follow my progress with AppAcademy [here](https://docs.google.com/spreadsheets/d/1JqOoCimUWPI3_rN_yTKSDOCZC8YwcF8cocHsmRILUH8/edit?usp=sharing) and a more detailed view of my daily logs [here](https://docs.google.com/document/d/1zY9jjHcOx_C-ryB02drA1vFMzLrMWFAnhCs96T_qOFQ/edit?usp=sharing)
+<br>
+<br>
+<br>
+
+
 # Computer Science and Programming - Version 4.0
 
 Please read the [FAQ](./faq.md) and note that there are [Tier Project Ideas](./project_ideas.md) to help you select projects.
@@ -77,7 +84,7 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            |in progress  |
+| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            |            |
 | [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                             |            |
 | [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            |            |
 | [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |            |
